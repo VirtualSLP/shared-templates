@@ -1,0 +1,36 @@
+' skinparam backgroundColor #EEEBDC
+' skinparam handwritten true
+skinparam sequenceArrowThickness 1
+skinparam roundcorner 10
+skinparam maxmessagesize 300
+skinparam sequenceParticipant underline
+
+skinparam sequence {
+  ArrowColor DarkBlue
+  LifeLineBorderColor blue
+  LifeLineBackgroundColor Aqua
+
+  ParticipantBorderColor DarkBlue
+  ParticipantBackgroundColor Aqua
+  ' ParticipantFontName Impact
+  ' ParticipantFontSize 17
+  ParticipantFontColor DarkBlue
+
+  ActorBorderColor DarkBlue
+  ActorBackgroundColor Aqua
+  ActorFontColor DarkBlue
+  ' ActorFontName Aapex
+  ' ActorFontSize 17
+
+  EntityBorderColor DarkBlue
+  EntityBackgroundColor Aqua
+  EntityFontColor DarkBlue
+
+  QueueBorderColor DarkBlue
+  QueueBackgroundColor Aqua
+  QueueFontColor DarkBlue
+
+  DatabaseBorderColor DarkBlue
+  DatabaseBackgroundColor Aqua
+  DatabaseFontColor DarkBlue
+}
