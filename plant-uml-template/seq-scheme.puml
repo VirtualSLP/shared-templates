@@ -33,4 +33,8 @@ skinparam sequence {
   DatabaseBorderColor DarkBlue
   DatabaseBackgroundColor Aqua
   DatabaseFontColor DarkBlue
+
+  NoteBorderColor DarkBlue
+  NoteBackgroundColor Aqua
+  NoteFontColor DarkBlue
 }
